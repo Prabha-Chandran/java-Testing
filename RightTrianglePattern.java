@@ -16,10 +16,6 @@ System.out.print("* ");
 }   
 //throws the cursor in a new line after printing each line  
 System.out.println();   
-System.out.println(); 
-System.out.println(); 
 }   
 }   
 }  
-
-
